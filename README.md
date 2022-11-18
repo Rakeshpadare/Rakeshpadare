@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakeshpadare
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning data Science and machine learning
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning SDE,includes nodes,dimango
 - 📫 How to reach me .. mail us rakeshpadare07@gmail.com
 
 <!---
